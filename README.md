@@ -2,10 +2,12 @@
 An e-commerce website, aiming to connect retailers with sellers, and buyers with sellers. A consumer to merchant one-stop-shop for trading and purchasing.
 
 Below are some sample screenshots of various pages:
+
 homepage:
 ![screencapture-127-0-0-1-5503-homepage-html-2021-09-07-14_36_08](https://user-images.githubusercontent.com/80393705/132321769-71188ab3-5cca-46b7-bf0b-86caf165ebf7.png)
 categories:
-![screencapture-127-0-0-1-5503-sale-page-html-2021-09-07-15_00_31](https://user-images.githubusercontent.com/80393705/132321856-b7727d22-a115-413f-9803-04b6bcbd6fb1.png)
+![screencapture-127-0-0-1-5503-categories-html-2021-09-07-14_55_02](https://user-images.githubusercontent.com/80393705/132322315-a0895c4d-fcdd-4fcb-a757-ba578bc0dbe4.png)
+
 products:
 ![screencapture-127-0-0-1-5503-sale-page-html-2021-09-07-15_00_31](https://user-images.githubusercontent.com/80393705/132321820-4963a7e5-cf11-4cf6-ba85-4d7398d946cb.png)
 product-info page:
