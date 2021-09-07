@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<title>
+admin Dashboard
+</title>
+
+<head>
+    <link rel="stylesheet" href="admin-dashboard.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <p class="heading" style="font-size:20px; color:white; margin-left: 8%;">
+      <br>
+    SociaLink
+    </p>
+      
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-color: #1b1b1b !important;">
+    <div class="container-fluid">
+        <span class="navbar-text">
+          PRODUCT ADMIN 
+          </span>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active ad-pro-nav" aria-current="page" href="admin-dashboard.html">Dashboard</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active ad-pro-nav" href="admin-productlist.html">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active ad-pro-nav" href="#">Orders</a>
+          </li>
+        </ul>
+        <span class="navbar-text">
+          <a class="nav-link active ad-pro-nav" aria-current="page" href="#">Admin, Logout</a>
+        </span>
+      </div>
+    </div>
+  </nav>
+  <br><br>
+
+  <h2 class="heading" style="margin-left: 3%; color: #e9e1d3;">Welcome, Seller </h2>
+  <p style="margin-left: 3%; color: #e9e1d3;">All systems are running smoothly!
+  <span>You have <a href="#" class="link-secondary">You have 3 unread notifications</a>
+  </span>
+  </p>
+
+  <div class="row align-items-center round-boxes">
+    <div class="col profile-box"> 
+        <img src="pics/dp1.jpg"  style=" border-radius: 15px; width: 550px; height: 260px; object-fit: cover; border-radius: 15px;"> 
+      </div>
+    <div class="col">
+        <div class="container">
+            <div class="row row-cols-2">
+              <div class="col sub-box a heading"><p>New/Pending Orders</p> <p> <h4>6,000</h4></p></div>
+              <div class="col sub-box b heading"><p>Total Orders Delivered</p> <p><h4>2,000,000</h4></p></div>
+              <div class="col sub-box c heading"> <p>Orders Cancelled</p> <p><h4>200</h4></p></div>
+              <div class="col sub-box d heading"> <p>Total Profit</p> <p><h4>&#8377; 10,000</h4></p></div>
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <div class="row order-activity">
+      <div class="col">
+        <h5 class="heading" style="color: #FFFFF6; padding: 2%;">Order Activity</h5>
+        <hr style="color: white;">
+      </div>     
+  </div>
+  <div class="row order-activity order-row">
+    <div class="col-1 icon-col b" ><img src="pics/admin-dashboard/box.png" style="width: 60%; margin-left: 10px;"></div>
+    <div class="col-11 wer"><a href="#" class="link-secondary order-activity-tags">In the Warehouse</a></div>
+  </div>
+  <div class="row order-activity  order-row">
+    <div class="col-1 icon-col d"><img src="pics/admin-dashboard/location-pin.png" style="width: 60%;margin-left: 10px;"></div>
+    <div class="col-11 wer"><a href="#" class="link-secondary  order-activity-tags">Delivered</a></div>
+  </div>
+  <div class="row order-activity  order-row">
+    <div class="col-1 icon-col c"><img src="pics/admin-dashboard/copy.png" style="width: 60%;margin-left: 10px;"></div>
+    <div class="col-11 wer"><a href="#" class="link-secondary  order-activity-tags">Invoiced</a></div>
+  </div>
+  <div class="row order-activity  order-row">
+    <div class="col-1 icon-col a"><img src="pics/admin-dashboard/delivery-truck.png" style="width: 60%;margin-left: 10px;"></div>
+    <div class="col-11 wer"><a href="#" class="link-secondary  order-activity-tags">On it's Way</a></div>
+  </div>
+  <br><br><br>
+  
+
+  
+    
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

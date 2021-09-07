@@ -1,0 +1,20 @@
+body{
+    background-color: #1F1F1F  !important;
+}
+
+a.category-sub-headings{
+    color: #d3cbbc;
+    text-decoration: none;
+    margin-left: 1%;
+    font-size: 0.8rem;
+}
+a.category-sub-headings:hover { color: #cc82ec; } /* CSS link hover (green) */
+
+.pro-det{
+    color: #d3cbbc;
+}
+
+.heading
+{
+    font-family: 'Fjalla One', sans-serif;
+}

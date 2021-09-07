@@ -1,0 +1,38 @@
+body{
+   background-color: #e9e1d3 !important;}
+   
+   .container .c2{
+       color: #514c43;
+       text-decoration: none;
+       background-color:white ;
+       padding: 13%;
+       border-radius: 30px;
+       
+   }
+
+   .category-headings {
+       margin-left: 7%;
+       color: #71457d;
+       font-size: 1.6rem;
+       font-family: 'Fjalla One', sans-serif;
+
+   }
+
+   a.category-sub-headings{
+       color: #514c43;
+       text-decoration: none;
+       margin-left: 1%;
+       
+   }
+
+   a.category-sub-headings:hover { color: #cc82ec; } /* CSS link hover (green) */
+
+   li.cat-li{
+    margin-left: 7%;   }
+
+    .heading
+{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+   

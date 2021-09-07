@@ -1,0 +1,76 @@
+body{
+    background-color: #2c2c2c !important;
+}
+
+.ad-pro-nav{
+    margin-left: 20%;
+    color: #FFFFF6 !important;
+}
+
+ .round-boxes{
+  color: black;
+    margin: 3% !important;
+}
+
+.sub-box{
+    margin: 0%;
+    padding: 3%;
+    border-radius: 15px;
+    width: 40% !important;
+    margin: 20px;
+   
+}
+
+.a{
+    background-color: #816E7C !important;
+}
+
+.b{
+    background-color:#fdf3e2 ;
+}
+
+.c{
+    background-color: #514c43;
+}
+
+.d{
+    background-color: #979289;
+}
+
+.profile-box{
+    /* background-color:#979289; */
+    border-radius: 15px;
+    padding: 3%;   
+    
+}
+
+.order-activity{
+    background-color: #1b1b1b;
+    margin-left: 90px !important;
+    margin-right: 90px !important;
+}
+
+.order-row{
+    padding: 10px;
+}
+
+.icon-col
+{
+    padding: 23px;
+    border-radius: 100%;
+    }
+
+.order-activity-tags
+{
+    text-decoration: none;
+}
+
+.wer
+{
+    margin-top: 30px !important;
+}
+
+.heading
+{
+    font-family: 'Fjalla One', sans-serif;
+}

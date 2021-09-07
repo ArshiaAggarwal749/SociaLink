@@ -1,0 +1,44 @@
+.ad-pro-nav{
+    margin-left: 20%;
+    color: #FFFFF6 !important;
+}
+
+body{
+background-color: #2c2c2c !important;
+}
+
+.admin-pro-button{
+    margin-left: 30%;
+    width: 40%;
+    background-color: #e9e1d3 !important;
+}
+
+.AddProduct{
+    background-color: #1b1b1b;
+    margin: 7% !important;
+    /* text-align: center !important;  */
+     /* align-items: center !important; */
+} 
+
+.new-pro-form{
+    color: seashell ;
+    padding: 5%;
+}
+
+.new-pro-form-boxes{
+    background-color: #816E7C !important;
+    border-radius: 0 !important;
+    border: #816E7C !important;
+    color: white !important;
+    padding: 5% !important;}
+
+    .upload-pics{
+        background-color: #e9e1d3 !important ;
+        color:#383838 !important ;
+        border: none !important;
+    }
+
+    .heading
+{
+    font-family: 'Fjalla One', sans-serif;
+}
