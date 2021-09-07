@@ -1,3 +1,7 @@
+![6](https://user-images.githubusercontent.com/72307178/132386505-9c133eba-e529-4fa2-81b4-4e87d9d583ce.png)
+![6](https://user-images.githubusercontent.com/72307178/132386592-0a7dcf80-e719-4361-840a-6afc0cc7022d.png)
+![5](https://user-images.githubusercontent.com/72307178/132386426-c6ad39c4-2ce8-402a-98aa-1ba896b5d634.png)
+![4](https://user-images.githubusercontent.com/72307178/132386355-cf1e60ce-1931-4d3d-84c1-0dc2fb35c7d3.png)
 # SociaLink
 An e-commerce website, aiming to connect retailers with sellers, and buyers with sellers. A consumer to merchant one-stop-shop for trading and purchasing.
 
