@@ -18,4 +18,14 @@ admin- Products' list
 ![screencapture-127-0-0-1-5503-admin-productlist-html-2021-09-07-14_46_06](https://user-images.githubusercontent.com/80393705/132322022-bc03261e-614c-4e60-b36b-5aed1946b950.png)
 admin-Add New Product
 ![screencapture-127-0-0-1-5503-admin-new-product-html-2021-09-07-14_43_29](https://user-images.githubusercontent.com/80393705/132321988-b84ecb3e-ffff-4cab-a54d-0dd8611ceb86.png)
+faq
+![1](https://user-images.githubusercontent.com/72307178/132460054-57b49bc4-2e26-46c2-87ec-d0ad7d1b4e18.png)
+sign up
+![6](https://user-images.githubusercontent.com/72307178/132460223-637142ca-9779-4391-a15b-a291c7421169.png)
+login
+![3](https://user-images.githubusercontent.com/72307178/132460112-87e04b22-0038-478f-b6a3-16ac9d8980df.png)
+privacy policy
+![4](https://user-images.githubusercontent.com/72307178/132460165-8ae3dfa9-405d-483a-8da3-561ead194d37.png)
+terms of use
+![5](https://user-images.githubusercontent.com/72307178/132460195-69d4d4d2-41e4-4ff3-ab88-b50b05ee6330.png)
 
